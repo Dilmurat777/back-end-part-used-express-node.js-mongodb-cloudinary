@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "age": 25,
+    "email": "john@example.com",
+    "address": "123 Main Street, City",
+    "gender": "man"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "age": 30,
+    "email": "jane@example.com",
+    "address": "456 Oak Avenue, Town",
+    "gender": "woman"
+  },
+  {
+    "id": 3,
+    "name": "Alex Johnson",
+    "age": 22,
+    "email": "alex@example.com",
+    "address": "789 Pine Road, Village",
+    "gender": "man"
+  },
+  {
+    "id": 4,
+    "name": "Emily Davis",
+    "age": 28,
+    "email": "emily@example.com",
+    "address": "101 Elm Street, Suburb",
+    "gender": "woman"
+  },
+  {
+    "id": 5,
+    "name": "Michael Wilson",
+    "age": 35,
+    "email": "michael@example.com",
+    "address": "202 Cedar Avenue, Countryside",
+    "gender": "man"
+  },
+  {
+    "id": 6,
+    "name": "Sophia Brown",
+    "age": 26,
+    "email": "sophia@example.com",
+    "address": "303 Maple Road, Hamlet",
+    "gender": "woman"
+  },
+  {
+    "id": 7,
+    "name": "Daniel White",
+    "age": 32,
+    "email": "daniel@example.com",
+    "address": "404 Birch Lane, Outskirts",
+    "gender": "man"
+  },
+  {
+    "id": 8,
+    "name": "Olivia Miller",
+    "age": 29,
+    "email": "olivia@example.com",
+    "address": "505 Spruce Street, Riverside",
+    "gender": "woman"
+  },
+  {
+    "id": 9,
+    "name": "William Anderson",
+    "age": 27,
+    "email": "william@example.com",
+    "address": "606 Pine Lane, Lakeside",
+    "gender": "man"
+  }
+]
